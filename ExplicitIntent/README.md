@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 Program to print the text ExplicitIntent.
 Developed by: R. Keerthana
-Registeration Number : 212221040081
+Registration Number : 212221040081
 ```
 **XML FILE:**
 ```xml
