@@ -29,9 +29,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to create Your Own Content Providers to get Contacts details.
-Developed by: R. Keerthana
-Registeration Number : 212221040081
-```
+
 **XML FILE:**
 ```xml
     <?xml version="1.0" encoding="utf-8"?>
