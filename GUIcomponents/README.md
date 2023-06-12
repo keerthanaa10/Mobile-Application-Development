@@ -29,8 +29,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to develop an application that uses GUI Components with Fonts and Colors.
-Developed by: Keerthana R
-Registeration Number :212221040081
+
 ```
 **XML FILE:**
 ```xml
