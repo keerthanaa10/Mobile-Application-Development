@@ -121,8 +121,8 @@ Registeration Number : 212221040081
   MAIN:<br>
   ![240207524-0ad0b719-2862-4b24-9149-9b880e70f580](https://github.com/keerthanaa10/Mobile-Application-Development/assets/88542035/dedb21c7-1e4d-458e-be80-714094532ef7)
 ![240207642-5cbec425-a6f8-4827-abf7-375a2de3c6b0](https://github.com/keerthanaa10/Mobile-Application-Development/assets/88542035/99aa6714-19fb-47ea-a8b5-fb1e3b1e625b)
-![240207686-85440148-dd0b-423e-9f49-e4fee90d75ee](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/0f8b86b9-2b8d-4b8e-83e1-21b4b54d7cdd)
-![240291829-1179e99d-c44a-48b7-b1ad-817c22a18522](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/00401aed-d198-47ad-8c5c-f500f7c90ca5)
+![240207686-85440148-dd0b-423e-9f49-e4fee90d75ee](https://github.com/keerthanaa10/Mobile-Application-Development/assets/88542035/0f8b86b9-2b8d-4b8e-83e1-21b4b54d7cdd)
+![240291829-1179e99d-c44a-48b7-b1ad-817c22a18522](https://github.com/keerthanaa10/Mobile-Application-Development/assets/88542035/00401aed-d198-47ad-8c5c-f500f7c90ca5)
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
